@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @1ahmedatef
+- 👀 I’m interested in AI + Education + Healthcare 
+- 🌱 I’m currently learning Python + AI
